@@ -1,0 +1,54 @@
+# Desktop Automation Commands
+# Add your commands here, one per line
+# Lines starting with # are comments and will be ignored
+
+# BASIC EXAMPLES:
+# open notepad
+# type hello world
+# press enter
+# click on file menu
+# close window
+
+# ADVANCED EXAMPLES:
+# open chrome and go to google.com
+# open calculator and calculate 5 plus 3
+# open file explorer and navigate to documents folder
+# take a screenshot of the desktop
+# minimize all windows
+# open task manager
+# switch to the next window
+
+# INTERNET-DEPENDENT EXAMPLES:
+# open outlook and check email
+# open steam and launch a game
+# open discord and join voice chat
+
+
+# PRODUCTIVITY EXAMPLES:
+# open word and create a new document
+# copy the selected text
+# paste into the search box
+# save the current file
+# print the document
+
+# YOUR COMMANDS (add below this line):
+
+
+
+
+
+
+
+
+
+
+open notepad
+
+type hello world
+
+press enter
+
+click on file menu
+
+close window
+
